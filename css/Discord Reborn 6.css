@@ -504,7 +504,7 @@ textarea { background: transparent !important; }
 
 .links li a { color: #8C8F94; }
 
-.links, .chat, .typing, .content, .guild-channels, .private-channels, .guild-header header, .divider-red span, .messages-wrapper, #voice-connection { background: transparent !important; }
+.links, .chat, .typing, .content, .private-channels, .guild-header header, .divider-red span, .messages-wrapper, #voice-connection { background: transparent !important; }
 
 .channels-wrap { background: rgba(0, 0, 0, 0.75); width: 220px; }
 
