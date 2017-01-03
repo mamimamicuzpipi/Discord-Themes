@@ -2062,7 +2062,7 @@ textarea {
 #voice-connection .btn:active {
     background: #151517 !important;
 }
-.theme-dark .friends-table .messages .message-group-blocked .message-group-blocked-btn:hover, .theme-dark .messages-wrapper .messages .message-group-blocked .message-group-blocked-btn:hover {
+.theme-dark .friends-table .messages .message-group-blocked .message-group-blocked-btn:hover, .theme-dark .message-group-blocked .message-group-blocked-btn:hover {
     background: #111113 !important;
 }
 .change-log-button-container {
