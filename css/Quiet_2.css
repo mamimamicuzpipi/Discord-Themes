@@ -1952,11 +1952,11 @@ textarea {
     height: 12px;
     background-size: 10px;
 }
-.theme-dark .friends-table .messages .message-group-blocked, .theme-dark .messages-wrapper .messages .message-group-blocked {
+.theme-dark .friends-table .messages .message-group-blocked, .theme-dark .messages .message-group-blocked {
     background: #19191b !important;
     border-color: #111113;
 }
-.theme-dark .friends-table .messages .divider:not(.red) span, .theme-dark .messages-wrapper .messages .divider:not(.red) span {
+.theme-dark .friends-table .messages .divider:not(.red) span, .theme-dark .messages .divider:not(.red) span {
     opacity: 1;
 }
 .theme-dark .friends-table .messages .message-group-blocked .message-group-blocked-btn, .theme-dark .messages-wrapper .messages .message-group-blocked .message-group-blocked-btn {
