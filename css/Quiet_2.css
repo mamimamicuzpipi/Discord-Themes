@@ -3117,7 +3117,7 @@ div.platform-osx .theme-light+span .user-settings-modal .tab-bar.SIDE .tab-bar-i
 .quick-message.isBlocked {
     background: #0b0b0c;
 }
-.theme-dark .friends-table .messages .message-group-blocked.revealed, .theme-dark .messages-wrapper .messages .message-group-blocked.revealed {
+.theme-dark .friends-table .message-group-blocked.revealed, .theme-dark .message-group-blocked.revealed {
     border: 2px solid #111113;
     -webkit-box-shadow: 0 1px 3px rgba(0,0,0,.16);
     box-shadow: 0 1px 3px rgba(0,0,0,.16);
